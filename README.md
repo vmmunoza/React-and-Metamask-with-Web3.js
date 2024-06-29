@@ -193,6 +193,3 @@ metamask-integration/
 ```
 
 
-```
-
-This README file can be used in your GitHub repository to guide others on how to set up a React application with MetaMask integration using Web3.js. It includes all the necessary details and code snippets for a complete setup.
